@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoePt1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cea99fa49994c70e9e3a6769bad77573c13b3c0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+550777cf1bc6e622ed83c0bcabb1ed3821f32b59")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoePt1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoePt1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
