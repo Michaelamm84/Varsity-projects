@@ -14,7 +14,11 @@ namespace PoePt1
             
             tools.printRecipe(Recipe);
 
-            tools.Editingrediants(Recipe);
+            tools.EditingrediantsName(Recipe);
+            
+            tools.printRecipe(Recipe);
+            
+            tools.Quantity(Recipe);
             
             tools.printRecipe(Recipe);
             
