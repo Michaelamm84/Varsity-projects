@@ -1,9 +1,43 @@
-﻿namespace PoePt1;
+﻿    
 
-class Program
+
+namespace PoePt1
 {
-    static void Main(string[] args)
+
+
+
+
+    public class main
     {
-        Console.WriteLine("Hello, World!");
+
+
+        static void Main(string[] args)
+        {
+            List<string> Recipe = new List<string>();
+
+
+            Tools tools = new Tools();
+
+            tools.CreateList(Recipe);
+
+
+
+            tools.printRecipe(Recipe);
+
+
+
+
+
+
+
+
+            Console.WriteLine("Hello, World!");
+
+        }
+
+
+
+
+
     }
 }
