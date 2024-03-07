@@ -49,17 +49,33 @@ public class Tools
 
             if (Console.ReadLine() == "yes")
             {
-                Console.WriteLine("which ingrediant ? ");
+                Console.WriteLine("which ingrediant ?");
+                
                 foreach (var item in Recipe)
                 {
-                    if (item ==Console.ReadLine() )
+                    
+                    if (item == Console.ReadLine())
                     {
-                        Index
-                    }  
+                        int a = Recipe.IndexOf(item);
+                        
+                        Console.WriteLine("what would you like to change the ingrediant to ?");
+
+                        string hello = Console.ReadLine();
+
+                        Recipe[a] = hello;
+
+                        
+                    }
+
+                    return Recipe;
                 }
                 
             }
+            return Recipe;
+            
         }
+        
+         
         
         
 
@@ -67,7 +83,7 @@ public class Tools
         {
             string recipe = null;
 
-            recipe = Recipe.ToString();
+            Recipe.ToString();
 
 
             foreach (var VARIABLE in Recipe)

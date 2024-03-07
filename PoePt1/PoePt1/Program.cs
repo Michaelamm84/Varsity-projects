@@ -13,6 +13,10 @@ namespace PoePt1
             tools.CreateList(Recipe);
             
             tools.printRecipe(Recipe);
+
+            tools.Editingrediants(Recipe);
+            
+            tools.printRecipe(Recipe);
             
             Console.WriteLine("Hello, World!");
 
