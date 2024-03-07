@@ -1,0 +1,15 @@
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/bin/Debug/net8.0/PoePt1
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/bin/Debug/net8.0/PoePt1.deps.json
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/bin/Debug/net8.0/PoePt1.runtimeconfig.json
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/bin/Debug/net8.0/PoePt1.dll
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/bin/Debug/net8.0/PoePt1.pdb
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/obj/Debug/net8.0/PoePt1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/obj/Debug/net8.0/PoePt1.AssemblyInfoInputs.cache
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/obj/Debug/net8.0/PoePt1.AssemblyInfo.cs
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/obj/Debug/net8.0/PoePt1.csproj.CoreCompileInputs.cache
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/obj/Debug/net8.0/PoePt1.sourcelink.json
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/obj/Debug/net8.0/PoePt1.dll
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/obj/Debug/net8.0/refint/PoePt1.dll
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/obj/Debug/net8.0/PoePt1.pdb
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/obj/Debug/net8.0/PoePt1.genruntimeconfig.cache
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/PoePt1/PoePt1/obj/Debug/net8.0/ref/PoePt1.dll

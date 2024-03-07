@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoePt1", "PoePt1\PoePt1.csproj", "{A739B6B3-B0FF-4AD6-AA9A-CB1D86D8066A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A739B6B3-B0FF-4AD6-AA9A-CB1D86D8066A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A739B6B3-B0FF-4AD6-AA9A-CB1D86D8066A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A739B6B3-B0FF-4AD6-AA9A-CB1D86D8066A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A739B6B3-B0FF-4AD6-AA9A-CB1D86D8066A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
