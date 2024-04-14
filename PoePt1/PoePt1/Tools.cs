@@ -34,14 +34,8 @@ public class Tools
             Console.WriteLine("how many units of the ingrdiant?");
             Recipe.Add(Console.ReadLine());
         }
-
-
-
-
-
-
-
-
+        
+        
         return Recipe;
     }
 
@@ -54,9 +48,7 @@ public class Tools
             Console.WriteLine("which ingrediant ?");
 
             string test = Console.ReadLine();
-
-
-
+            
             for (int i = 0; i <= Recipe.Count; i++)
             {
 
@@ -78,12 +70,9 @@ public class Tools
         }
 
         return Recipe;
-
     }
 
-
-
-
+    
 
     public void printRecipe(List<string> Recipe)
     {
@@ -119,30 +108,12 @@ public class Tools
                     int w = q * 2;
                     Recipe[i] = w.ToString();
                     i += 2;
-                    
-
-
                 }
-
-
             }
-
-            
-
-
         }
-
         return Recipe;
-
-
     }
-
-
-
-
-
-
-
+    
     public Tools()
         {
         

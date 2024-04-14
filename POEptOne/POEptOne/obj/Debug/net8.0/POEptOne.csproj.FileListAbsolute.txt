@@ -1,0 +1,15 @@
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/obj/Debug/net8.0/POEptOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/obj/Debug/net8.0/POEptOne.AssemblyInfoInputs.cache
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/obj/Debug/net8.0/POEptOne.AssemblyInfo.cs
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/obj/Debug/net8.0/POEptOne.csproj.CoreCompileInputs.cache
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/obj/Debug/net8.0/POEptOne.sourcelink.json
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/bin/Debug/net8.0/POEptOne
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/bin/Debug/net8.0/POEptOne.deps.json
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/bin/Debug/net8.0/POEptOne.runtimeconfig.json
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/bin/Debug/net8.0/POEptOne.dll
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/bin/Debug/net8.0/POEptOne.pdb
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/obj/Debug/net8.0/POEptOne.dll
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/obj/Debug/net8.0/refint/POEptOne.dll
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/obj/Debug/net8.0/POEptOne.pdb
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/obj/Debug/net8.0/POEptOne.genruntimeconfig.cache
+/Users/michaelamm/Documents/GitHub/Varsity-projects-/POEptOne/POEptOne/obj/Debug/net8.0/ref/POEptOne.dll
