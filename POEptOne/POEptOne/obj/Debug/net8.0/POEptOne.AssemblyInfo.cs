@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POEptOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e65c73339cfbab6c1a46c54e7f6b741030fa7c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33725a6b05a8c530be282836378709d440d9b6f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("POEptOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POEptOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
