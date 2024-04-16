@@ -2,7 +2,12 @@ namespace POEptOne;
 
 public class Recipe
 {
-    
+    private List<string> names = new List<string>();
+
+    private List<int> amount = new List<int>();
+
+   
+
     public int quant { get; set; }
 
 
@@ -14,25 +19,23 @@ public class Recipe
 
     public int ingrediants { get; set; }
 
-    //printing method 
-    public string PrintIngrediants(List<Ingrediants> ingss)
+    
+    public string PrintIngrediants(List<Ingredients> ingss)
     {
-       
-        foreach (Ingrediants ignsIngrediants in ingss)
+        // for ( int i =0 ; )
+        foreach (Ingredients ignsIngrediants in ingss)
         {
             Console.WriteLine("--------------------------------");
-            Console.WriteLine($" The name of the ingrdiant: {ignsIngrediants.IngName}");
-            Console.WriteLine($" The Quantity of the ingrdiant: {ignsIngrediants.Quant}");
-            Console.WriteLine($" The Amount of the ingrdiant: {ignsIngrediants.Amount}");
+            Console.WriteLine($" The name of the ingredient: {ignsIngrediants.IngName}");
+            Console.WriteLine($" The Quantity of the ingredient: {ignsIngrediants.Quant}");
+            Console.WriteLine($" The Amount of the ingredient: {ignsIngrediants.Amount}");
             Console.WriteLine("------------------------------------------");
         }
 
         return null;
     }
 
-    
-    //scaling up method 
-    public List<Ingrediants> editList(List<Ingrediants> ingss )
+    public List<Ingredients> editList(List<Ingredients> ingss )
     {
         Console.WriteLine("what is the name of the ingrediant you would like to search for ?");
         string search = Console.ReadLine();
@@ -49,9 +52,7 @@ public class Recipe
         return ingss;
     }
 
-    
-    // reset to original values method 
-    public List<Ingrediants> SaveOrigionals(List<Ingrediants> ingss, List<Ingrediants> origIngrediantsList )
+    public List<Ingredients> SaveOrigionals(List<Ingredients> ingss, List<Ingredients> origIngrediantsList )
     {
         for (int i = 0; i < origIngrediantsList.Count; i++)
         {

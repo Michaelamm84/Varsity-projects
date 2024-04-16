@@ -7,8 +7,8 @@ class Program
         
         //variables 
 
-        List<Ingrediants> ingss = new List<Ingrediants>();
-        List<Ingrediants> origIngrediantsList = new List<Ingrediants>();
+        List<Ingredients> ingss = new List<Ingredients>();
+        List<Ingredients> origIngrediantsList = new List<Ingredients>();
         List<String> stepsList = new List<string>();
         Recipe recipe = new Recipe();
         string menu = null;
@@ -95,8 +95,8 @@ class Program
                         Console.WriteLine(IngName);
 
                        
-                        Ingrediants ings = new Ingrediants(IngName, Quant, Amount);
-                        Ingrediants oIngs = new Ingrediants(oIngName, oQuant, oAmount);
+                        Ingredients ings = new Ingredients(IngName, Quant, Amount);
+                        Ingredients oIngs = new Ingredients(oIngName, oQuant, oAmount);
                         
 
                         ingss.Add(ings);

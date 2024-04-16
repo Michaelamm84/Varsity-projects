@@ -1,6 +1,6 @@
 namespace POEptOne;
 // a class to hold ingredients 
-public class Ingrediants
+public class Ingredients
 {
     public string IngName
     {
@@ -20,7 +20,7 @@ public class Ingrediants
         set;
     }
 // constructor
-    public Ingrediants(string IngName,string Quant,int Amount)
+    public Ingredients(string IngName,string Quant,int Amount)
     {
         this.IngName = IngName;
         this.Quant = Quant;
